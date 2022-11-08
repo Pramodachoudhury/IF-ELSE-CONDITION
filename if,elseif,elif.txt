@@ -1,0 +1,146 @@
+#--------------1-------------------
+"""a=str(input('enter a Alphabet :'))
+if (a=='a'or a=='i' or a=='e' or a=='o' or a=='u'):
+    print('its VOWEL')
+else :
+    print('its CONSOTANT')"""
+#--------------------2-----------------
+"""v=int(input('enter a side:'))
+if v==3:
+    print('triangle')
+elif v==4:
+    print('square')
+elif v==5:
+    print('pentagon')
+elif v==6:
+    print('hexagon')
+elif v==7:
+    print('septagon')
+elif v==8:
+    print('octagon')
+elif v==9:
+    print('nanogon')
+elif v==10:
+    print('decagon')
+else:
+    print('invalid')"""
+#-------------3----------------------------
+"""month = input ("Enter the name of a month: ")
+if month == 'April' or month == 'June' or month == 'September' or month == 'November':
+    print('the month of days is :31')
+elif month=='january' or month=='march' or month=='may' or month=='july' or name=='august' or name=='octber' or name=='december':
+    print('the month of days is :30')
+elif month == "February":
+    print('the month of dates is : 28 or 29')
+else :
+    print('the month is int list ')"""
+#------------------------------4------------------
+"""d=float(input('enter anumber of decibels:'))
+if d>0 and d<40:
+    print('quiter than a quite room')
+elif d==40:
+    print('the same as quite room')
+elif d>40 and d<70:
+    print('the noise between quite room and alaram lock')
+elif d==70:
+    print('the same as alaram clock')
+elif d>70 and d<106:
+    print('the noise between alaram and gas lawnmower')
+elif d==106:
+    print('the same as gas lawnmower')
+elif d>106 and d<130:
+    print('the noise between gas lawnmower and jackhammer')
+elif d==130:
+    print('the same as jackhammer')
+else:
+    print(' the too loud')"""
+#--------------5---------------------------------------------
+"""x=int(input('enter 1st lenght of a triangle:'))
+y=int(input('enter 2nd length of a triangle:'))
+z=int(input('enter 3rd length of a triangle:'))
+if x==y==z :
+    print('the triangle is equilateral')
+elif x==y or y==z or z==x:
+    print('the triangle is isosceles')
+else:
+    print('the triangle is scalene')"""
+#--------------------6----------------------------------
+"""x=str(input('enter a month :'))
+y=int(input('enter a day :'))
+if x=='January' and y== 1:
+    print('the new years holiday')
+elif x=='July' and y== 1:
+    print('the canada day')
+elif x=='December' and y== 25:
+    print('the christmass day')
+else:
+    print('the enter month & day do not correspond to fixed-date holiday')"""
+#-------------------------7-------------------------
+"""w=str(input('enter a row no:'))
+h=int(input('enter a column no:'))
+if h%2==0:
+    print('the  square colour is white')
+elif h%2!=0:
+    print('the square colour is black')
+elif w%2==0:
+    print('the  square colour is white')
+elif w%2!=0:
+    print('the  square colour is black')
+else:
+    print('no such data found')"""
+#------------8-----------------------------
+"""m=input('enter a birth of month:')
+d=int(input('enter a birth of day:'))
+if m=='december' and m<22:
+    print('the zodiac sign is capricorn')
+elif m=='january' and (m<20):
+    print('the zodiac sign is aquarius')"""
+#----------------9------------------------
+"""d=float(input('enter a magnitude :'))
+if d>0 and d<2.0:
+    print('the magnitude is micro')
+elif d>2.0 and d<3.0:
+    print('the magnitude is very minor')
+elif d>3.0 and d<4.0:
+    print('the magnitude is minor')
+elif d>4.0 and d<5.0:
+    print('the magnitude is light')
+elif d>5.0 and d<6.0:
+    print('the magnitude is modarate')
+elif d>6.0 and d<7.0:
+    print('the magnitude is strong')
+elif d>7.0 and d<8.0:
+    print('the magnitude is major')
+elif d>8.0 and d<10.0:
+    print('the magnitude is great')
+elif d>10.0:
+    print('the magnitude is meteroic')
+else:
+    print(' the too loud')"""
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+          
+    
+
+
+
+
+
+
+
+
