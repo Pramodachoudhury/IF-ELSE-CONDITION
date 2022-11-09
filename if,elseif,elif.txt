@@ -78,16 +78,12 @@ else:
 #-------------------------7-------------------------
 """w=str(input('enter a row no:'))
 h=int(input('enter a column no:'))
-if h%2==0:
-    print('the  square colour is white')
-elif h%2!=0:
-    print('the square colour is black')
-elif w%2==0:
-    print('the  square colour is white')
-elif w%2!=0:
-    print('the  square colour is black')
+if w%2==0 and h%2==0:
+   print('its a black')
+elif w%2!=0  and h%2!=0
+   print('its a black')
 else:
-    print('no such data found')"""
+    print('the  colour is white')"""
 #------------8-----------------------------
 """m=input('enter a birth of month:')
 d=int(input('enter a birth of day:'))
